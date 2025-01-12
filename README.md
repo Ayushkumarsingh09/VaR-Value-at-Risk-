@@ -30,6 +30,3 @@ This project explores the concept of Value at Risk (VaR) and demonstrates its ca
 
 This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
 
----
-
-Feel free to modify the contents based on your project's specifics and add any additional information you think is necessary.
