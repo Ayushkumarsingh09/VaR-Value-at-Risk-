@@ -1,7 +1,3 @@
-Certainly! Here's a README file template for your VaR Calculation project on GitHub:
-
----
-
 # Value at Risk (VaR) Calculation
 
 This project explores the concept of Value at Risk (VaR) and demonstrates its calculation using two methods: the historical method and the Monte Carlo simulation method. VaR is a widely used metric in financial risk management, providing an estimate of the maximum potential loss in value of a portfolio or investment over a specified time period, at a given confidence level.
